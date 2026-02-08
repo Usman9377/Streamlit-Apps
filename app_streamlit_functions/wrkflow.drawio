@@ -1,0 +1,22 @@
+<mxfile host="65bd71144e">
+    <diagram id="x_MoIX6QgLbmCjV6D4fy" name="Page-1">
+        <mxGraphModel dx="532" dy="1498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;h1&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;App to learn function of streamlit&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="-200" width="360" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Create conda/mamba environment&lt;div&gt;streamlit_env&lt;/div&gt;&lt;div&gt;conda create -n streamlit_env&lt;/div&gt;&lt;div&gt;conda activate streamlit_env&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="65" y="-90" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="conda install python -y&lt;div&gt;pip install streamlit&lt;/div&gt;&lt;div&gt;pip install pandas matplotlib plotly numpy seaborn scipy&amp;nbsp;&lt;/div&gt;&lt;div&gt;scikit-learn openpyxl openai&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;size=35;" vertex="1" parent="1">
+                    <mxGeometry y="20" width="340" height="70" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
